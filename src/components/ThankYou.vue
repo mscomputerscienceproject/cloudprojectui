@@ -3,7 +3,9 @@
     <v-row align="center" justify="center">
       <v-col class="text-center" cols="12">
         <h2 class="display-1 font-weight-thin mb-4">Thank You</h2>
-        <h4 class="subheading font-weight-thin mb-1">Your have successfully submitted details!</h4>
+        <h4 class="subheading font-weight-thin mb-1">
+          Your have successfully Logged In!
+        </h4>
       </v-col>
     </v-row>
   </v-parallax>
